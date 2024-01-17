@@ -1,0 +1,4 @@
+c:\users\akbar husain\documents\visual studio 2010\Projects\Clinic_Management\Clinic_Management\bin\Clinic_Management.dll
+c:\users\akbar husain\documents\visual studio 2010\Projects\Clinic_Management\Clinic_Management\bin\Clinic_Management.pdb
+c:\users\akbar husain\documents\visual studio 2010\Projects\Clinic_Management\Clinic_Management\obj\Debug\Clinic_Management.dll
+c:\users\akbar husain\documents\visual studio 2010\Projects\Clinic_Management\Clinic_Management\obj\Debug\Clinic_Management.pdb

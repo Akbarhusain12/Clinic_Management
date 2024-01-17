@@ -1,0 +1,10 @@
+c:\users\akbar husain\documents\visual studio 2010\Projects\Clinic_Management\Clinic_Management\bin\Clinic_Management.dll
+c:\users\akbar husain\documents\visual studio 2010\Projects\Clinic_Management\Clinic_Management\bin\Clinic_Management.pdb
+c:\users\akbar husain\documents\visual studio 2010\Projects\Clinic_Management\Clinic_Management\obj\Debug\Clinic_Management.dll
+c:\users\akbar husain\documents\visual studio 2010\Projects\Clinic_Management\Clinic_Management\obj\Debug\Clinic_Management.pdb
+D:\Akbar husain\Clinic_Management\Clinic_Management\bin\Clinic_Management.dll
+D:\Akbar husain\Clinic_Management\Clinic_Management\bin\Clinic_Management.pdb
+D:\Akbar husain\Clinic_Management\Clinic_Management\obj\Debug\Clinic_Management.dll
+D:\Akbar husain\Clinic_Management\Clinic_Management\obj\Debug\Clinic_Management.pdb
+C:\Users\Akbar Husain\Documents\Visual Studio 2010\Projects\Clinic_Management\Clinic_Management\obj\Debug\Clinic_Management.csprojResolveAssemblyReference.cache
+C:\Users\Akbar Husain\Documents\Visual Studio 2010\Projects\Clinic_Management\Clinic_Management\bin\AjaxControlToolkit.dll
